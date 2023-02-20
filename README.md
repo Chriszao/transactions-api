@@ -8,5 +8,5 @@
 ## Business rules
 
 [x] The transaction can be of the credit type that adds to the total amount, or debit that will subtract;
-[ ] It must be possible to identify the user among the requests;
-[ ] The user can only view transactions which he created.
+[x] It must be possible to identify the user among the requests;
+[x] The user can only view transactions which he created.
